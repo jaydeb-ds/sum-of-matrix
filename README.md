@@ -1,1 +1,3 @@
-# sum-of-matrix
+#MatrixProblem
+sum of metrix
+multipication of matrix
